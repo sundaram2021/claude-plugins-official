@@ -1,0 +1,14 @@
+.claude-plugin/marketplace.json
+  h_004cd95484b0ae 54-68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "38e97b536e3b200a381d840b19c7ce98b9c176dc",
+  "prompts": {},
+  "humans": {
+    "h_004cd95484b0ae": {
+      "author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
